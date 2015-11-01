@@ -8,7 +8,7 @@ Klicke dazu einfach oben auf den Ordner `_posts` und führe dann folgende Schrit
  - Logge dich in deinem Github Account ein (oder benutze Username: `ffki-blogger`, Passwort: `blogger77`)
  - Erstelle eine neue `.md` seite im ordner `_posts`, drücke dazu auf das Plus in der Überschrift:  
     `    / nord-blog / _posts / + `  
-    ![new post](http://i.stack.imgur.com/MEP2q.png)  
+    ![new post](http://i.imgur.com/zTruxmS.png)  
     (beim ersten mal wird dabei automatisch eine Kopie dieses Projekts in deinem Github erzeugt, in dem du ab dann arbeitest). 
  - Die Benennung der Datei muss dabei mit dem Datum beginnen, gefolgt von einem rein informativen Teil der ignoriert wird, z.B. `2015-09-30-beschreibender-ignorierter-teil.md`
  - Der Inhalt der Datei muss anfangen mit den Zeilen:
