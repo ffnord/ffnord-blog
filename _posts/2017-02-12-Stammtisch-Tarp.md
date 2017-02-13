@@ -19,4 +19,4 @@ Da wir überhaupt nicht abschätzen können wie viele Teilnehmer kommen werden s
 
 Wir hoffen das sich einige Mitstreiter finden werden so das wir nicht so alleine auf der Veranstaltung sitzen
 
-Mehr Infos unter http://schleswig-flensburg.freifunk.net/blog/
+Mehr Infos unter [http://schleswig-flensburg.freifunk.net/blog/](http://schleswig-flensburg.freifunk.net/blog/)
