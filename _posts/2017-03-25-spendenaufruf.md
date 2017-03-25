@@ -14,7 +14,7 @@ Dieser Server trägt zu Spitzenzeiten etwa 30% der Netzlast, ist unser vorletzte
 
 Wenn Ihr uns unterstützen wollt, wendet euch bitte direkt an admin@ffnord.net - Wer Spenden möchte, findet dazu auf unserer Homepage [1] alle nötigen Informationen.
 
-Ich bedenke mich für eure Mithilfe!
+Ich bedanke mich für eure Mithilfe!
 
 Gruß
 
