@@ -4,7 +4,7 @@ title: Spendenaufruf! - Serverpate gesucht - Abschaltung eines Gateway Host Serv
 ---
 Moin Freifunk Nord,
 
-seit Oktober 2015 sind wir nun flei�ig dabei, das Netz aufzubauen und zu erweitern. Bald werden wir die 1100 Knoten Marke geknackt haben. Wie ihr alle wisst, benötgen wir zum Betrieb des Netzes Server in Rechenzentren, die s.g. Gateways.
+seit Oktober 2015 sind wir nun fleißig dabei, das Netz aufzubauen und zu erweitern. Bald werden wir die 1100 Knoten Marke geknackt haben. Wie ihr alle wisst, benötgen wir zum Betrieb des Netzes Server in Rechenzentren, die s.g. Gateways.
 
 Hiervon betreiben wir derzeit 15 Stück. Wir setzen hierbei auf einen Mix aus gemieteten virtuellen Servern bei OVH und selbst dedizierten virtuellen Maschinen (VM) auf gemieteten Servern bei Hetzner. Da die VMs von OVH lediglich mit 100MBit/s angebunden sind, haben wir bisher immer noch an den deutlich teureren Hetzner Servern festgehalten. Dessen Finanzierung wurde bisher von mir und sven77 übernommen. Wie so oft im Leben ändert sich dies jedoch nun. Die Kosten für diesen Server schwanken zwischen 60€ - 90€ im Monat und verstehen sich zzgl. den Aufwendungen für den VPN Exit (ca. 80€ pro Jahr).
 
