@@ -12,7 +12,7 @@ Diese Kombination ermöglicht es uns zukünftig komplett auf den, im Verhältnis
 
 Gegen Ende des Monats erfolgt dann der Wechsel auf die neue Infrastruktur. Es wird in dieser Zeit zu Ausfällen der Webseite und des Meshviewers kommen. Auch können hier und da Unterbrechungen der Internet Verbindungen auftreten, da wir nach und nach alle Gateways "anfassen" müssen. Wir werden uns jedoch bemühen, die Auswirkungen gering zu halten und die Arbeiten zuvor noch einmal ankündigen. Im schlimmsten Fall müsst ihr eure Router einmal neustarten.
 
-Etwas weiter ein der Zukunft werden wir dann vom älteren Debian 7 updaten und auch die Freifunk Kern Komponenten erneuern. Das ist aber noch Zukunftsmusik.
+Etwas weiter in der Zukunft werden wir dann vom älteren Debian 7 updaten und auch die Freifunk Kern Komponenten erneuern. Das ist aber noch Zukunftsmusik.
 
 Ich beende diese doch sehr techniklaste News nun mit unseren besten Osterwünschen für euch und eure Familien.
 
