@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ankündigung: Firmware Update auf Gluon 2016.2.7
+title: Ankündigung - Firmware Update auf Gluon 2016.2.7
 ---
 
 Moin Freifunk Nord,
