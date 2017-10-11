@@ -9,7 +9,7 @@ wie in der Roadmap vom 16.09.2017 angekündigt steht das Firmware Update auf Glu
 
 Sofern es kein wichtiges Update gibt, wird dass dann das letzte Update vor dem Wechsel auf LEDE sein.
 
-Das Update ist zwinged erforderlich, damit ein Wechsel zu LEDE mittels Autoupdater klappt. Daher muss jeder Knotenbetreiber, der nicht schon auf eine LEDE Firmware nutzt, dieses Update installieren. Was sich geändert hat könnt ihr im Changelog [1] nachlesen. Die Firmware steht bereits auf unser Webseite [2] und auf den Gateways [3] zum download bereit.
+Das Update ist zwinged erforderlich, damit ein Wechsel zu LEDE mittels Autoupdater klappt. Daher muss jeder Knotenbetreiber, der nicht schon eine LEDE Firmware nutzt, dieses Update installieren. Was sich geändert hat könnt ihr im Changelog [1] nachlesen. Die Firmware steht bereits auf unser Webseite [2] und auf den Gateways [3] zum download bereit.
 
 Wer für das Update schon jetzt den Autoupdater nutzen möchte, kann dies via SSH mit folgender Befehlszeile tun.
 
