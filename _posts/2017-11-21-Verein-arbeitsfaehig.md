@@ -24,7 +24,7 @@ Die Gründungsmitglieder erhalten von mir in den nächsten Tagen eine Mitgliedsb
 
 Den Mitgliedsantrag für neue (Förder-)Mitglieder findet ihr hier:
 
-    https://github.com/Freifunk-Nord/Verein/blob/master/Aufnahmeantrag_-_Freifunk_Nord_eV_(ausfuellbar).pdf
+    https://github.com/Freifunk-Nord/Verein/raw/master/Aufnahmeantrag_-_Freifunk_Nord_eV_(ausfuellbar).pdf
     https://github.com/Freifunk-Nord/Verein/raw/master/Antrag_auf_Foerdermitgliedschaft_-_Freifunk_Nord_eV_(ausfuellbar).pdf
 
 Kontakt zum Vorstand erhaltet Ihr zukünftig per Mail an vorstand@freifunknord.de bzw. nach dem Schema vorname.nachname@freifunknord.de .
