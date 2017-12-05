@@ -5,14 +5,19 @@ title: Firmwareupdate 2016.2.7.1 - Abschaltung Knotenformular
 
 Moin Freifunk Nord,
 <br>
+<br>
 wir haben nun damit begonnen das Firmwareupdate auf 2016.2.7.1 auszurollen. Neuerungen könnt ihr im Changelog [1] nachlesen. Zeitgleich haben wir das Knotenformuar abgeschaltet. Hierzu bitte den vorherigen Blogpost [2] beachten.
+<br>
 <br>
 Funkt frei.
 <br>
+<br>
 MfG
+<br>
 <br>
 Christian Breutkreutz<br>
 Freifunk Nord Admin Team
+<br>
 <br>
 [1] https://github.com/Freifunk-Nord/nord-site/releases/tag/2016.2.7.1
 <br>
