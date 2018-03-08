@@ -131,4 +131,4 @@ erwerben und so ggf. deutlich sparen:
 
 2,4 & 5 GHz bis zu 50Mbit/s:
 
-- TP-Link WD4900 (N900)
+- TP-Link WDR4900 (N900)
